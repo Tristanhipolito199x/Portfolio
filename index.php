@@ -16,6 +16,7 @@
 </head>
 
 <body>
+    <?php echo '
     <!-- Progress-wrapp scroll-button -->
     <div class="progress-wrap">
         <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
@@ -181,6 +182,7 @@
                 </div>
             </div>
         </div>
+        ';?>
         <!-- jQuery -->
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
