@@ -105,8 +105,8 @@
                             <h2 class="annie-heading animate-box" data-animate-effect="fadeInUp">About Me</h2> </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-3"> </div>
-                        <div class="col-md-9 animate-box" data-animate-effect="fadeInDown"> <img src="images/myImage/3.jpg" class="img-fluid mb-30" style="height: 500px; width:500px" alt="img"> </div>
+                        <div class="col-md-4"> </div>
+                        <div class="col-md-8 animate-box" data-animate-effect="fadeInDown"> <img src="images/myImage/3.jpg" class="img-fluid mb-30" style="height: 350px; width:350px" alt="img"> </div>
     
                     </div>
                     <div class="row">
